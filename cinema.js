@@ -38,4 +38,3 @@ console.log(filterFilmes)
 
 //console.log(catalogo[1].titulo)
 
-//novo comando para o git
