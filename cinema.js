@@ -38,3 +38,6 @@ console.log(filterFilmes)
 
 //console.log(catalogo[1].titulo)
 
+//teste do git
+
+//vamover se deu certo
